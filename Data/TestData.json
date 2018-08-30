@@ -1,0 +1,13 @@
+[
+{
+ "textBoxFieldValue": "Dynamic Text",
+ "dropDownOptions": "1",
+ "confirmPageTitle": "Thank you"
+},
+
+{
+"textBoxFieldValue": "I will subscribe",
+"dropDownOptions": "2",
+"confirmPageTitle": "Thank you"
+}
+]
