@@ -1,4 +1,4 @@
-set Pathname = "C:/Users/rahul.shah/AppData/Roaming/npm"
+set Pathname = "ProtractorUsingJasmine_JenkinsIntegration/CI_Grunt"
 cd /d %Pathname %
 @echo off
 title Command Executer
