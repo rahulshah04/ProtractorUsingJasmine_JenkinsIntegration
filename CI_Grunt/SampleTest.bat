@@ -1,4 +1,4 @@
-set Pathname = "ProtractorUsingJasmine_JenkinsIntegration/CI_Grunt"
+set Pathname = "CI_Grunt"
 cd /d %Pathname %
 @echo off
 title Command Executer
